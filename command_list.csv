@@ -1,0 +1,164 @@
+    1  cd /c/Users/User/Desktop/QA3
+    2  cd /c/Users/User/Desktop/QA35
+    3  pwd
+    4  ls -l
+    5  touch test.txt
+    6  ls -l
+    7  vin text.txt
+    8  clear
+    9  vin test.txt
+   10  vin test.txt
+   11  i
+   12  test wq
+   13  vin test.txt
+   14  cat text.txt
+   15  this my test
+   16  e
+   17  i
+   18  cat test.txt
+   19  clear
+   20  vin test.txt
+   21  this my test
+   22  mkdir Luchia
+   23  ls l
+   24  ls l
+   25  vin test.txt
+   26  rn test.txt
+   27  rm test.txt
+   28  ping google.com
+   29  date
+   30  systeminfo
+   31  cd ../
+   32  attrib +r test.txt
+   33  cd ../
+   34  attrib +r Luchia.txt
+   35  attrib +r test.txt
+   36  ls -l
+   37  git clone/c/Users/User/Desktop/QA35
+   38  git clone [200~https://github.com/SvetTester/test_repo1.git~
+   39  cd test_repo1
+   40  touch test.txt
+   41  cd /c/Users/User/Desktop/QA35
+   42  cd../
+   43  cd De
+   44  cd Q
+   45  cd ../
+   46  cd /c/Users/User/Desktop/QA35
+   47  clear
+   48  pwd
+   49  ls -l
+   50  touch test.txt
+   51  ls -l
+   52  clear
+   53  vin test.txt
+   54  vim test.txt
+   55  vim test.txt
+   56  cat text.txt
+   57  cat test.txt
+   58  clear
+   59  mkdir Luchia
+   60  ls -l
+   61  cp test.txt Luchia/
+   62  ls -l
+   63  cd Luchia/
+   64  ls -l
+   65  rm test.txt
+   66  ls -l
+   67  clear
+   68  ping google.com
+   69  date
+   70  systeminfo
+   71  clear
+   72  cd :/
+   73  cd ../
+   74  ls -l
+   75  attrib +r test.txt
+   76  ls -l
+   77  attrib +r test.txt
+   78  ls -l
+   79  git clone https://github.com/SvetTester/GitQA35.git
+   80  cd GitQA35/
+   81  git config --global user.name "SvetTester"
+   82  git config --global user.name "SvetTester"
+   83  git config --global user.email "gasinvest.of@gmail.com"
+   84  touch file.txt
+   85  ls -l
+   86  git status
+   87  clear
+   88  ls -l
+   89  clear
+   90  cd /c/Users/User/Desktop/QA35
+   91  ls -l
+   92  git status
+   93  git clone https://github.com/SvetTester/GitQA35.git
+   94  cd GitQA35
+   95  git config --global user.name "SvetTecter
+   96  cd ../
+   97  clear
+   98  "
+   99  git config --global user.name "SvetTester"
+  100  git config --global user.email "gasinvest.of@gmail.com"
+  101  touch file.txt
+  102  git status
+  103  git add file.txt
+  104  git status
+  105  git commit -m "First commit"
+  106  git push
+  107  git statusSvet
+  108  git commit -m "First commit"
+  109  git push
+  110  git branch
+  111  git checkout -b test
+  112  git branch
+  113  touch test.txt
+  114  ls -l
+  115  git status
+  116  git add test.txt
+  117  git status
+  118  git commit -m "Second commit"
+  119  git checkout main
+  120  git merge test
+  121  git push
+  122  /c/Users/User/Desktop/QA35
+  123  cd /c/Users/User/Desktop/QA35/GitQA35
+  124  git config --global user.name "SvetTester"
+  125  git config --global user.email "gasinvest.of@gmail.com"
+  126  cd HW_10
+  127  git status
+  128  git commit -m "first commit"
+  129  git push
+  130  touch main_test.txt
+  131  git add main_test.txt
+  132  git commit -m "first commit"
+  133  git commit -m "second commit"
+  134  git push
+  135  git pull
+  136  cd /c/Users/User/Desktop/QA35/GitQA35/HW_10
+  137  touch text_ignore.txt
+  138  clear
+  139  cd /c/Users/User/Desktop/2HW_10
+  140  git_clone_https://github.com/SvetTester/2HW_10.git
+  141  git clone https://github.com/SvetTester/2HW_10.git
+  142  cd 2HW_10
+  143  touch text_ignore.txt
+  144  echo text_ignore.txt >.gitignore
+  145  echo text_ignore.txt > .gitignore
+  146  git status
+  147  git add
+  148  git add .
+  149  git commit -m "text_ignore.txt was ignored"
+  150  touch main_test.txt
+  151  git add .
+  152  git commit -m "main_test.txt was added"
+  153  git checkout -b develop
+  154  touch develop_test.txt
+  155  git add .
+  156  git commit -m "develop_test.txt was added"
+  157  echo teeeext > develop_test.txt
+  158  git status
+  159  git add .
+  160  git commit -m "develop_test.txt was changet"
+  161  git checkout main
+  162  git merge develop
+  163  git log
+  164  history > command_list.csv
